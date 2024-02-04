@@ -3,27 +3,25 @@
 Passionate **Web Developer** with a knack for creating delightful web experiences. 
 
 
-![Colorful Banner Image](https://media.licdn.com/dms/image/D4D12AQFbaMnPV81zuQ/article-cover_image-shrink_720_1280/0/1699057583710?e=2147483647&v=beta&t=7knYyqHlBbNWYM09yBs74gXkutrL-H8bMbXUx9e_Oys)
-
 
 ## 🚀 Skills
 
 ![Java](https://img.shields.io/badge/Java-Expert-brightgreen)
-
 ![MySQL](https://img.shields.io/badge/MySQL-Expert-brightgreen)
 
 
 ![HTML](https://img.shields.io/badge/HTML-Expert-brightgreen)
 ![CSS](https://img.shields.io/badge/CSS-Expert-brightgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue)
-![React.js](https://img.shields.io/badge/React.js-Intermediate-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-brightgreen)
+
+![React.js](https://img.shields.io/badge/React.js-Expert-brightgreen)
+
 ![Express.js](https://img.shields.io/badge/Express.js-Intermediate-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-blue)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-blue)
 
-
 ![Tailwind](https://img.shields.io/badge/Tailwind-Intermediate-blue)
-
 
 ![Next.js](https://img.shields.io/badge/Next.js-Intermediate-blue)
 
@@ -40,7 +38,7 @@ A showcase of my work and projects as a Full Stack Web Developer.
 A user-friendly web application that facilitates various user activities, including sign-up, log-in, profile editing, post creation, editing, and deletion.
 
 ### Project 1: [Formify](link-to-formify)
-Auser-friendly web application that facilitates form submission, viewing, and downloading in PDF format.<br>
+A user-friendly web application that facilitates form submission, viewing, and downloading in PDF format.
 Administrators can securely log in with a 4-digit PIN, access all user-filled forms, edit them, and download in PDF format.
 
 
