@@ -1,17 +1,17 @@
-# 👋 Hello, I'm Prince Kumar Thakur!
+# 👋 Hello, I'm Prince Thakur!
 
 Passionate **Web Developer** with a knack for creating delightful web experiences. 
-I love to dive into the world of coding and explore the endless possibilities it offers.
 
-<!-- Add a splash of color to your profile -->
-![Colorful Banner Image](https://www.boardinfinity.com/blog/content/images/2023/01/Mern.png)
 
+![Colorful Banner Image](https://www.ftxinfotech.com/wp-content/uploads/2020/03/hire-fullstack-image.png)
 
 
 ## 🚀 Skills
 
 ![Java](https://img.shields.io/badge/Java-Expert-brightgreen)
-![MySQL](https://img.shields.io/badge/MySQL-Beginner-orange)
+
+![MySQL](https://img.shields.io/badge/MySQL-Expert-brightgreen)
+
 
 ![HTML](https://img.shields.io/badge/HTML-Expert-brightgreen)
 ![CSS](https://img.shields.io/badge/CSS-Expert-brightgreen)
@@ -19,9 +19,11 @@ I love to dive into the world of coding and explore the endless possibilities it
 ![React.js](https://img.shields.io/badge/React.js-Intermediate-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-blue)
 ![Express.js](https://img.shields.io/badge/Express.js-Intermediate-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-Beginner-orange)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-blue)
+
 
 ![Tailwind](https://img.shields.io/badge/Tailwind-Intermediate-blue)
+
 
 ![Next.js](https://img.shields.io/badge/Next.js-Intermediate-blue)
 
@@ -38,7 +40,8 @@ A showcase of my work and projects as a Full Stack Web Developer.
 A user-friendly web application that facilitates various user activities, including sign-up, log-in, profile editing, post creation, editing, and deletion.
 
 ### Project 1: [Formify](link-to-formify)
-Developed a user-friendly web application that facilitates form submission, viewing, and downloading in PDF format. Administrators can securely log in with a 4-digit PIN, access all user-filled forms, edit them, and download in PDF format.
+Auser-friendly web application that facilitates form submission, viewing, and downloading in PDF format.<br>
+Administrators can securely log in with a 4-digit PIN, access all user-filled forms, edit them, and download in PDF format.
 
 
 
@@ -70,7 +73,7 @@ Developed a user-friendly web application that facilitates form submission, view
 - [LinkedIn](https://www.linkedin.com/in/princethakur1999/)
 - [LeetCode](https://leetcode.com/princethakur1999/)
 - [GitHub](https://github.com/princethakur1999)
-- [![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+- [Twitter](https://twitter.com/yourhandle)
 
 
 
