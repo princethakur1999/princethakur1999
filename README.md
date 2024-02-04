@@ -3,7 +3,7 @@
 Passionate **Web Developer** with a knack for creating delightful web experiences. 
 
 
-![Colorful Banner Image](https://www.ftxinfotech.com/wp-content/uploads/2020/03/hire-fullstack-image.png)
+![Colorful Banner Image](https://media.licdn.com/dms/image/D4D12AQFbaMnPV81zuQ/article-cover_image-shrink_720_1280/0/1699057583710?e=2147483647&v=beta&t=7knYyqHlBbNWYM09yBs74gXkutrL-H8bMbXUx9e_Oys)
 
 
 ## 🚀 Skills
