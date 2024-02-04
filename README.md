@@ -6,13 +6,15 @@ Passionate **Web Developer** with a knack for creating delightful web experience
 
 ## 🚀 Skills
 
-![MySQL](https://img.shields.io/badge/MySQL-Expert-brightgreen)
 
-![Java](https://img.shields.io/badge/Java-Expert-brightgreen)
+![Java](https://img.shields.io/badge/Java-Intermediate-blue)
 
-![HTML](https://img.shields.io/badge/HTML-Expert-brightgreen)
-![CSS](https://img.shields.io/badge/CSS-Expert-brightgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-brightgreen)
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue)
+
+
+![HTML](https://img.shields.io/badge/HTML-Intermediate-blue)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue)
 
 ![Tailwind](https://img.shields.io/badge/Tailwind-Intermediate-blue)
 
@@ -21,6 +23,7 @@ Passionate **Web Developer** with a knack for creating delightful web experience
 ![React.js](https://img.shields.io/badge/React.js-Intermediate-blue)
 ![Express.js](https://img.shields.io/badge/Express.js-Intermediate-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-blue)
+
 
 ![Next.js](https://img.shields.io/badge/Next.js-Intermediate-blue)
 
