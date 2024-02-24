@@ -3,6 +3,25 @@
 ---
 
 
+## 📧 Contact
+
+[![Email](https://img.shields.io/badge/Email-prince.setu1999%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:prince.setu1999@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%206202178657-blue?style=for-the-badge&logo=phone)](tel:+916202178657)
+
+---
+
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/princethakur1999/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/princethakur1999/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/setu13)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://www.instagram.com/setu__13/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366)](https://wa.me/6202178657)
+
+---
+
+
 ## 🎁Skills
 
 ![Java](https://img.shields.io/badge/Java-Intermediate-green)
@@ -24,9 +43,10 @@
 ---
 
 
+
 ## 💻Projects
 
-### My Portfolio  [Live Link](https://princethakur1999.github.io/prince/)
+### 1. My Portfolio  [Live Link](https://princethakur1999.github.io/prince/)
 
 A showcase of my work and projects as a Full Stack Web Developer.
 
@@ -34,7 +54,7 @@ A showcase of my work and projects as a Full Stack Web Developer.
 
 
 
-### Poster [Live Link](https://poster-prince.vercel.app/)
+### 2. Poster [Live Link](https://poster-prince.vercel.app/)
 
 A user-friendly web app enabling sign-up, log-in, profile editing, post creation, editing, deletion, and viewing online users.
 
@@ -42,7 +62,7 @@ A user-friendly web app enabling sign-up, log-in, profile editing, post creation
 
 
 
-### Project 3: [Postify](link-to-formify)
+### 3. Postify [Postify](link-to-formify)
 A social media platform designed to facilitate seamless communication and interaction among users.
 
 ![Profile Image](https://img.freepik.com/free-vector/red-grunge-style-coming-soon-design_1017-26691.jpg)
@@ -64,26 +84,6 @@ A social media platform designed to facilitate seamless communication and intera
 - **10th Grade**
   - A.D.P.J. High School, Mahishi, Saharsa
   - 59.2% (2014)
-
----
-
-
-
-## 📧 Contact
-
-[![Email](https://img.shields.io/badge/Email-prince.setu1999%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:prince.setu1999@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%206202178657-blue?style=for-the-badge&logo=phone)](tel:+916202178657)
-
----
-
-
-## 🌐 Find me elsewhere
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/princethakur1999/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/princethakur1999/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/setu13)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://www.instagram.com/setu__13/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366)](https://wa.me/6202178657)
 
 ---
 
