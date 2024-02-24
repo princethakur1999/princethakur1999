@@ -53,7 +53,7 @@ A user-friendly web app enabling sign-up, log-in, profile editing, post creation
 
 A social media platform designed to facilitate seamless communication and interaction among users.
 
-![Profile Image](https://img.freepik.com/free-vector/red-grunge-style-coming-soon-design_1017-26691.jpg)
+![Profile Image](https://freepngimg.com/thumb/coming_soon/4-2-coming-soon-png.png)
 
 
 
