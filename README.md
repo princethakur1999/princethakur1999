@@ -6,24 +6,21 @@
 ## 🎁Skills
 
 ![Java](https://img.shields.io/badge/Java-Intermediate-blue)
-![OOPs](https://img.shields.io/badge/Java-Intermediate-blue)
+![OOPs](https://img.shields.io/badge/Java-Intermediate-black)
 
-![HTML](https://img.shields.io/badge/HTML-Intermediate-yellow)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-yellow)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-red)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
 
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-black)
+![React.js](https://img.shields.io/badge/React.js-Intermediate-blue)
+![Express.js](https://img.shields.io/badge/Express.js-Intermediate-white)
 
-![React.js](https://img.shields.io/badge/React.js-Intermediate-green)
-![Express.js](https://img.shields.io/badge/Express.js-Intermediate-green)
-
-
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green)
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-white)
 
-
-![Next.js](https://img.shields.io/badge/Next.js-Intermediate-white)
+![Next.js](https://img.shields.io/badge/Next.js-Intermediate-black)
 
 ---
 
