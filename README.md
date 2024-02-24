@@ -14,8 +14,8 @@
 
 ## 🎁Skills
 
-![Java](https://img.shields.io/badge/Java-Intermediate-green)
-![OOPs](https://img.shields.io/badge/OOPS-Intermediate-green)
+![Java](https://img.shields.io/badge/Java-Intermediate-skyblue)
+![OOPs](https://img.shields.io/badge/OOPS-Intermediate-skyblue)
 
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-red)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
