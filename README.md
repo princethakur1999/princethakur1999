@@ -4,7 +4,7 @@
 
 ## Skills
 
-![Java](https://img.shields.io/badge/Java-Intermediate-skyblue)
+![Java](https://img.shields.io/badge/Java-skyblue)
 ![OOPs](https://img.shields.io/badge/OOPS-Intermediate-skyblue)
 
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-red)
