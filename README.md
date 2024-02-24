@@ -1,31 +1,35 @@
 # 👋 Hello, I'm Prince Thakur!
 
-Passionate **Web Developer** with a knack for creating delightful web experiences. 
+A **Full Stack Web Developer**! 
 
+---
 
 
 ## 🚀 Skills
 
-
 ![Java](https://img.shields.io/badge/Java-Intermediate-orange)
 
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
 
+![CSS](https://img.shields.io/badge/CSS-Intermediate-orange)
 
-![HTML](https://img.shields.io/badge/HTML-Intermediate-blue)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange)
 
-![Tailwind](https://img.shields.io/badge/Tailwind-Intermediate-blue)
+![Tailwind](https://img.shields.io/badge/Tailwind-Intermediate-orange)
 
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-orange)
 
-![React.js](https://img.shields.io/badge/React.js-Intermediate-blue)
-![Express.js](https://img.shields.io/badge/Express.js-Intermediate-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-blue)
+![React.js](https://img.shields.io/badge/React.js-Intermediate-orange)
 
+![Express.js](https://img.shields.io/badge/Express.js-Intermediate-orange)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-orange)
+
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
 
 ![Next.js](https://img.shields.io/badge/Next.js-Intermediate-blue)
+
+---
 
 
 ## 🚀 Featured Projects
@@ -40,6 +44,7 @@ A user-friendly web application that facilitates various user activities, includ
 A user-friendly web application that facilitates form submission, viewing, and downloading in PDF format.
 Administrators can securely log in with a 4-digit PIN, access all user-filled forms, edit them, and download in PDF format.
 
+---
 
 
 ## 🎓 Education
@@ -56,6 +61,8 @@ Administrators can securely log in with a 4-digit PIN, access all user-filled fo
   - A.D.P.J. High School, Mahishi, Saharsa
   - 59.2% (2014)
 
+---
+
 
 
 ## 📧 Contact
@@ -63,6 +70,7 @@ Administrators can securely log in with a 4-digit PIN, access all user-filled fo
 - **Email:** prince.setu1999@gmail.com
 - **Phone:** +91 6202178657
 
+---
 
 
 ## 🌐 Find me elsewhere
@@ -72,6 +80,7 @@ Administrators can securely log in with a 4-digit PIN, access all user-filled fo
 - [GitHub](https://github.com/princethakur1999)
 - [Twitter](https://twitter.com/yourhandle)
 
+---
 
 
 ## 📊 GitHub Stats
