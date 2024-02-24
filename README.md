@@ -31,25 +31,17 @@ I enjoy continuously learning and exploring emerging technologies to stay at the
 ## Projects
 
 ### Portfolio  [Link](https://princethakur1999.github.io/prince/)
-
 A showcase of my work and projects as a Full Stack Web Developer.
-
 ![Profile Image](https://res.cloudinary.com/dsrz6p2su/image/upload/v1708762966/Prince/Screenshot_2024-02-24_135018_vsiunq.png)
 
 
-
 ### Poster [Link](https://poster-prince.vercel.app/)
-
 A user-friendly web app enabling sign-up, log-in, profile editing, post creation, editing, deletion, and viewing online users.
-
 ![Profile Image](https://res.cloudinary.com/dsrz6p2su/image/upload/v1708763369/Prince/Screenshot_2024-02-24_135804_abckqq.png)
 
 
-
 ### Postify [Link](https://github.com/princethakur1999/Postify)
-
 A social media platform designed to facilitate seamless communication and interaction among users.
-
 ![Profile Image](https://freepngimg.com/thumb/coming_soon/4-2-coming-soon-png.png)
 
 
@@ -77,7 +69,8 @@ A social media platform designed to facilitate seamless communication and intera
 [![Phone](https://img.shields.io/badge/Call-%2B91%206202178657-blue?style=for-the-badge&logo=call)](tel:+916202178657)
 
 
-## Connect with Me
+
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/princethakur1999/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat-square&logo=github)](https://github.com/princethakur1999/)
