@@ -29,17 +29,17 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
 
 
-![Next.js](https://img.shields.io/badge/Next.js-Intermediate-blue)
+![Next.js](https://img.shields.io/badge/Next.js-Intermediate-orange)
 
 ---
 
 
 ## 🚀 Featured Projects
 
-### Project 1: [Portfolio]([link-to-portfolio](https://princethakur1999.github.io/prince/))
+### Project 1: [Portfolio](link-to-portfolio](https://princethakur1999.github.io/prince/))
 A showcase of my work and projects as a Full Stack Web Developer.
 
-### Project 2: [Poster]([link-to-poster](https://poster-prince.vercel.app/))
+### Project 2: [Poster](link-to-poster](https://poster-prince.vercel.app/))
 A user-friendly web application that facilitates various user activities, including sign-up, log-in, profile editing, post creation, editing, and deletion.
 
 ### Project 3: [Postify](link-to-formify)
