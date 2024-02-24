@@ -34,7 +34,7 @@
 ---
 
 
-## 🚀 Featured Projects
+## 💻Projects
 
 ### Project 1: [Portfolio](link-to-portfolio](https://princethakur1999.github.io/prince/))
 A showcase of my work and projects as a Full Stack Web Developer.
