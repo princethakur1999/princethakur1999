@@ -36,11 +36,13 @@
 
 ## 💻Projects
 
-### Project 1: [Portfolio](link-to-portfolio](https://princethakur1999.github.io/prince/))
+### Project 1: [Portfolio](https://princethakur1999.github.io/prince/)
 A showcase of my work and projects as a Full Stack Web Developer.
 
-### Project 2: [Poster](link-to-poster](https://poster-prince.vercel.app/))
-A user-friendly web application that facilitates various user activities, including sign-up, log-in, profile editing, post creation, editing, and deletion.
+
+### Project 2: [Poster](https://poster-prince.vercel.app/)
+A user-friendly web app enabling sign-up, log-in, profile editing, post creation, editing, deletion, and viewing online users.
+
 
 ### Project 3: [Postify](link-to-formify)
 A social media platform designed to facilitate seamless communication and interaction among users.
