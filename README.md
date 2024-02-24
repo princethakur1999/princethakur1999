@@ -14,6 +14,7 @@ I enjoy continuously learning and exploring emerging technologies to stay at the
 
 ![HTML](https://img.shields.io/badge/HTML-red)
 ![CSS](https://img.shields.io/badge/CSS-blue)
+![Tailwind](https://img.shields.io/badge/Tailwind-navy)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 ![Node.js](https://img.shields.io/badge/Node.js-white)
