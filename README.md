@@ -1,11 +1,10 @@
-# 👋 Hello, I'm Prince Thakur!
-
-**Full Stack Web Developer**
+# 👤Hello! I'm Prince Thakur, a Full Stack Web Developer.
 
 ---
 
 
-## 🚀 Skills
+
+## 🎁Skills
 
 ![Java](https://img.shields.io/badge/Java-Intermediate-orange)
 
