@@ -1,6 +1,5 @@
 # 👤Hello! I'm a Full Stack Web Developer.
 
----
 
 
 ## 📧 Contact
@@ -8,7 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-prince.setu1999%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:prince.setu1999@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%206202178657-blue?style=for-the-badge&logo=phone)](tel:+916202178657)
 
----
 
 
 
@@ -30,7 +28,6 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-Intermediate-black)
 
----
 
 
 
@@ -57,7 +54,6 @@ A social media platform designed to facilitate seamless communication and intera
 
 ![Profile Image](https://img.freepik.com/free-vector/red-grunge-style-coming-soon-design_1017-26691.jpg)
 
----
 
 
 
@@ -75,7 +71,7 @@ A social media platform designed to facilitate seamless communication and intera
   - A.D.P.J. High School, Mahishi, Saharsa
   - 59.2% (2014)
 
----
+
 
 
 
