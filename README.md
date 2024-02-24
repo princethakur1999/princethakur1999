@@ -4,6 +4,8 @@
 
 ## Skills
 
+![C](https://img.shields.io/badge/C-green)
+
 ![Java](https://img.shields.io/badge/Java-skyblue)
 ![OOPs](https://img.shields.io/badge/OOPS-skyblue)
 
