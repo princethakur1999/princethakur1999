@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Prince Thakur!
 
-A **Full Stack Web Developer**! 
+**Full Stack Web Developer**
 
 ---
 
@@ -10,22 +10,24 @@ A **Full Stack Web Developer**!
 ![Java](https://img.shields.io/badge/Java-Intermediate-orange)
 
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
-
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-orange)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange)
 
 ![Tailwind](https://img.shields.io/badge/Tailwind-Intermediate-orange)
 
+
 ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-orange)
+
 
 ![React.js](https://img.shields.io/badge/React.js-Intermediate-orange)
 
+
 ![Express.js](https://img.shields.io/badge/Express.js-Intermediate-orange)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-orange)
 
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-orange)
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
+
 
 ![Next.js](https://img.shields.io/badge/Next.js-Intermediate-blue)
 
@@ -34,15 +36,14 @@ A **Full Stack Web Developer**!
 
 ## 🚀 Featured Projects
 
-### Project 1: [Portfolio](link-to-portfolio)
+### Project 1: [Portfolio]([link-to-portfolio](https://princethakur1999.github.io/prince/))
 A showcase of my work and projects as a Full Stack Web Developer.
 
-### Project 2: [Poster](link-to-poster)
+### Project 2: [Poster]([link-to-poster](https://poster-prince.vercel.app/))
 A user-friendly web application that facilitates various user activities, including sign-up, log-in, profile editing, post creation, editing, and deletion.
 
-### Project 1: [Formify](link-to-formify)
-A user-friendly web application that facilitates form submission, viewing, and downloading in PDF format.
-Administrators can securely log in with a 4-digit PIN, access all user-filled forms, edit them, and download in PDF format.
+### Project 3: [Postify](link-to-formify)
+A social media platform designed to facilitate seamless communication and interaction among users.
 
 ---
 
