@@ -36,6 +36,9 @@
 ## 💻Projects
 
 ### Project 1: [Portfolio](https://princethakur1999.github.io/prince/)
+
+![Profile Image]([https://example.com/profile-image.png](https://res.cloudinary.com/dsrz6p2su/image/upload/v1708762966/Prince/Screenshot_2024-02-24_135018_vsiunq.png))
+
 A showcase of my work and projects as a Full Stack Web Developer.
 
 
