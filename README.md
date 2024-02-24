@@ -2,14 +2,6 @@
 
 
 
-## Contact
-
-[![Email](https://img.shields.io/badge/Email-prince.setu1999%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:prince.setu1999@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%206202178657-blue?style=for-the-badge&logo=phone)](tel:+916202178657)
-
-
-
-
 ## Skills
 
 ![Java](https://img.shields.io/badge/Java-Intermediate-skyblue)
@@ -27,7 +19,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-black)
 
 ![Next.js](https://img.shields.io/badge/Next.js-Intermediate-black)
-
 
 
 
@@ -73,6 +64,11 @@ A social media platform designed to facilitate seamless communication and intera
   - 59.2% (2014)
 
 
+
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-prince.setu1999%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:prince.setu1999@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%206202178657-blue?style=for-the-badge&logo=phone)](tel:+916202178657)
 
 
 
