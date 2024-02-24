@@ -2,7 +2,7 @@
 
 
 
-## 📧 Contact
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-prince.setu1999%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:prince.setu1999@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%206202178657-blue?style=for-the-badge&logo=phone)](tel:+916202178657)
@@ -10,7 +10,7 @@
 
 
 
-## 🎁Skills
+## Skills
 
 ![Java](https://img.shields.io/badge/Java-Intermediate-skyblue)
 ![OOPs](https://img.shields.io/badge/OOPS-Intermediate-skyblue)
@@ -31,9 +31,9 @@
 
 
 
-## 💻Projects
+## Projects
 
-### 1. My Portfolio  [Live Link](https://princethakur1999.github.io/prince/)
+### Portfolio  [Live Link](https://princethakur1999.github.io/prince/)
 
 A showcase of my work and projects as a Full Stack Web Developer.
 
@@ -41,7 +41,7 @@ A showcase of my work and projects as a Full Stack Web Developer.
 
 
 
-### 2. Poster [Live Link](https://poster-prince.vercel.app/)
+### Poster [Live Link](https://poster-prince.vercel.app/)
 
 A user-friendly web app enabling sign-up, log-in, profile editing, post creation, editing, deletion, and viewing online users.
 
@@ -49,7 +49,8 @@ A user-friendly web app enabling sign-up, log-in, profile editing, post creation
 
 
 
-### 3. Postify [Postify](link-to-formify)
+### Postify [Postify](link-to-formify)
+
 A social media platform designed to facilitate seamless communication and interaction among users.
 
 ![Profile Image](https://img.freepik.com/free-vector/red-grunge-style-coming-soon-design_1017-26691.jpg)
@@ -57,7 +58,7 @@ A social media platform designed to facilitate seamless communication and intera
 
 
 
-## 🎓 Education
+## Education
 
 - **B.Sc (H.) Computer Science**
   - Sri Sri University, Cuttack, Odisha
@@ -75,7 +76,7 @@ A social media platform designed to facilitate seamless communication and intera
 
 
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/princethakur1999/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat-square&logo=github)](https://github.com/princethakur1999/)
@@ -85,6 +86,6 @@ A social media platform designed to facilitate seamless communication and intera
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=princethakur1999&show_icons=true&theme=radical)
