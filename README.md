@@ -64,8 +64,9 @@ A social media platform designed to facilitate seamless communication and intera
 
 
 ## Connect
-[![Email](https://img.shields.io/badge/Email-25D366?style=flat-square&logo=email)](mailto:prince.setu1999@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-blue?style=flat-square&logo=phone)](tel:+916202178657)
+
+[![Email](https://img.shields.io/badge/Email-prince.setu1999%40gmail.com-25D366?style=flat-square&logo=email)](mailto:prince.setu1999@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%206202178657-blue?style=flat-square&logo=phone)](tel:+916202178657)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat-square&logo=github)](https://github.com/princethakur1999/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/setu13)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/setu__13/)
