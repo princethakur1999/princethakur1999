@@ -7,7 +7,7 @@ Passionate **Web Developer** with a knack for creating delightful web experience
 ## 🚀 Skills
 
 
-![Java](https://img.shields.io/badge/Java-Intermediate-green)
+![Java](https://img.shields.io/badge/Java-Intermediate-orange)
 
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue)
 
