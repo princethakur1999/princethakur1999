@@ -33,7 +33,7 @@
 
 ## Projects
 
-### Portfolio  [Live Link](https://princethakur1999.github.io/prince/)
+### Portfolio  [Link](https://princethakur1999.github.io/prince/)
 
 A showcase of my work and projects as a Full Stack Web Developer.
 
@@ -41,7 +41,7 @@ A showcase of my work and projects as a Full Stack Web Developer.
 
 
 
-### Poster [Live Link](https://poster-prince.vercel.app/)
+### Poster [Link](https://poster-prince.vercel.app/)
 
 A user-friendly web app enabling sign-up, log-in, profile editing, post creation, editing, deletion, and viewing online users.
 
@@ -49,7 +49,7 @@ A user-friendly web app enabling sign-up, log-in, profile editing, post creation
 
 
 
-### Postify [Postify](link-to-formify)
+### Postify [Link](https://github.com/princethakur1999/Postify)
 
 A social media platform designed to facilitate seamless communication and interaction among users.
 
