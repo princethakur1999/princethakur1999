@@ -5,22 +5,23 @@
 
 ## 🎁Skills
 
-![Java](https://img.shields.io/badge/Java-Intermediate-green)
+![Java](https://img.shields.io/badge/Java-Intermediate-blue)
+![OOPs](https://img.shields.io/badge/Java-Intermediate-blue)
 
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-yellow)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
 
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-black)
 
 ![React.js](https://img.shields.io/badge/React.js-Intermediate-green)
-
 ![Express.js](https://img.shields.io/badge/Express.js-Intermediate-green)
 
 
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-orange)
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-white)
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-white)
+
 
 ![Next.js](https://img.shields.io/badge/Next.js-Intermediate-white)
 
@@ -74,18 +75,19 @@ A social media platform designed to facilitate seamless communication and intera
 
 ## 📧 Contact
 
-- **Email:** prince.setu1999@gmail.com
-- **Phone:** +91 6202178657
+[![Email](https://img.shields.io/badge/Email-prince.setu1999%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:prince.setu1999@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%206202178657-blue?style=for-the-badge&logo=phone)](tel:+916202178657)
 
 ---
 
 
 ## 🌐 Find me elsewhere
 
-- [LinkedIn](https://www.linkedin.com/in/princethakur1999/)
-- [LeetCode](https://leetcode.com/princethakur1999/)
-- [GitHub](https://github.com/princethakur1999)
-- [Twitter](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/princethakur1999/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/princethakur1999/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/setu13)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://www.instagram.com/setu__13/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366)](https://wa.me/6202178657)
 
 ---
 
