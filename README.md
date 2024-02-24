@@ -7,27 +7,27 @@
 
 ![Java](https://img.shields.io/badge/Java-Intermediate-green)
 
-![HTML](https://img.shields.io/badge/HTML-Intermediate-red)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-yellow)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-yellow)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
-![Tailwind](https://img.shields.io/badge/Tailwind-Intermediate-orange)
-
-
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-orange)
+![Tailwind](https://img.shields.io/badge/Tailwind-Intermediate-green)
 
 
-![React.js](https://img.shields.io/badge/React.js-Intermediate-orange)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
 
 
-![Express.js](https://img.shields.io/badge/Express.js-Intermediate-orange)
+![React.js](https://img.shields.io/badge/React.js-Intermediate-green)
 
 
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-orange)
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
+![Express.js](https://img.shields.io/badge/Express.js-Intermediate-green)
 
 
-![Next.js](https://img.shields.io/badge/Next.js-Intermediate-orange)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-ogreen)
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-green)
+
+
+![Next.js](https://img.shields.io/badge/Next.js-Intermediate-green)
 
 ---
 
