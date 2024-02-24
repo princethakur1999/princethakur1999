@@ -5,7 +5,7 @@
 
 ## 🎁Skills
 
-![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+![Java](https://img.shields.io/badge/Java-Intermediate-blue)
 
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-orange)
