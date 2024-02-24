@@ -5,10 +5,10 @@
 
 ## 🎁Skills
 
-![Java](https://img.shields.io/badge/Java-Intermediate-lightblue)
+![Java](https://img.shields.io/badge/Java-Intermediate-green)
 
-![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-orange)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-red)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange)
 
 ![Tailwind](https://img.shields.io/badge/Tailwind-Intermediate-orange)
