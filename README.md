@@ -73,9 +73,8 @@ A social media platform designed to facilitate seamless communication and intera
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-prince.setu1999%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:prince.setu1999@gmail.com)
+[![Email](https://img.shields.io/badge/Email-prince.setu1999%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:prince.setu1999@gmail.com) 
 [![Phone](https://img.shields.io/badge/Phone-%2B91%206202178657-blue?style=for-the-badge&logo=phone)](tel:+916202178657)
-
 
 
 ## Connect with Me
