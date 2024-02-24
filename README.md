@@ -74,12 +74,9 @@ A social media platform designed to facilitate seamless communication and intera
 
 ## Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat-square&logo=github)](https://github.com/princethakur1999/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/princethakur1999/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/setu13)
-
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/setu__13/)
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp)](https://wa.me/6202178657)
 
 
