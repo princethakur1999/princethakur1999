@@ -1,7 +1,6 @@
-# 👤Hello! I'm Prince Thakur, a Full Stack Web Developer.
+# 👤Hello! I'm a Full Stack Web Developer.
 
 ---
-
 
 
 ## 🎁Skills
@@ -35,21 +34,27 @@
 
 ## 💻Projects
 
-### Project 1: [Portfolio](https://princethakur1999.github.io/prince/)
-
-![Profile Image](https://res.cloudinary.com/dsrz6p2su/image/upload/v1708762966/Prince/Screenshot_2024-02-24_135018_vsiunq.png)
+### My Portfolio  [Live Link](https://princethakur1999.github.io/prince/)
 
 A showcase of my work and projects as a Full Stack Web Developer.
 
+![Profile Image](https://res.cloudinary.com/dsrz6p2su/image/upload/v1708762966/Prince/Screenshot_2024-02-24_135018_vsiunq.png)
 
-### Project 2: [Poster](https://poster-prince.vercel.app/)
+
+
+### Poster [Live Link](https://poster-prince.vercel.app/)
+
 A user-friendly web app enabling sign-up, log-in, profile editing, post creation, editing, deletion, and viewing online users.
+
+![Profile Image](https://res.cloudinary.com/dsrz6p2su/image/upload/v1708763369/Prince/Screenshot_2024-02-24_135804_abckqq.png)
+
 
 
 ### Project 3: [Postify](link-to-formify)
 A social media platform designed to facilitate seamless communication and interaction among users.
 
 ---
+
 
 
 ## 🎓 Education
