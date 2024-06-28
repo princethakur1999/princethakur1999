@@ -62,7 +62,7 @@ A social media platform designed to facilitate seamless communication and intera
 
 - **B.Sc (H.) Computer Science**
   - Sri Sri University, Cuttack, Odisha
-  - 8.2 CGPA (2021 - 2024)
+  - 8.26 CGPA (2021 - 2024)
 
 - **12th Grade**
   - L.C. College, Pasatwaar, Saharsa
